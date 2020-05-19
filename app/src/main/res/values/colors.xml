@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="barColor">#35CDB2</color>
+    <color name="fontColour">#858B95</color>
+    <color name="mapFontColour">#797E87</color>
+    <color name="bgColour">#FAFAFA</color>
+    <color name="borderColorLightBlue">#32CBDC</color>
+    <color name="backgroundColorLightBlue">#80eae5</color>
+    <color name="backgroundRed">#DB7474</color>
+    <color name="backgroundTeal">#35CD96</color>
+    <color name="high">#FF9D87</color>
+    <color name="mod">#FAD77D</color>
+    <color name="low">#35CDB2</color>
+</resources>
